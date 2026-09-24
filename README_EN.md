@@ -77,8 +77,14 @@ Ships with `token_stats.py` to estimate token usage before and after optimizatio
 
 ### Installation
 
-1. Download `prompt-optimizer.skill` from this repository;
-2. Install it in an AI platform that supports Skills (e.g., Kimi).
+1. Clone this repository to get the `prompt-optimizer/` skill source directory:
+
+   ```bash
+   git clone https://github.com/1624994722/prompt-optimizer.git
+   ```
+
+2. Package the `prompt-optimizer/` directory into a `.skill` file (zip it and rename the extension), then install it in an AI platform that supports Skills (e.g., Kimi);
+3. Or simply hand your rough idea to an AI with this skill installed and see it in action.
 
 ### Triggering
 

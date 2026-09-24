@@ -77,8 +77,14 @@
 
 ### 安装
 
-1. 下载本仓库中的 `prompt-optimizer.skill` 文件；
-2. 在支持 Skill 的 AI 平台（如 Kimi）中安装该技能。
+1. 克隆本仓库，取得 `prompt-optimizer/` 技能源码目录：
+
+   ```bash
+   git clone https://github.com/1624994722/prompt-optimizer.git
+   ```
+
+2. 将 `prompt-optimizer/` 目录打包为 `.skill` 文件（zip 压缩后改后缀即可），在支持 Skill 的 AI 平台（如 Kimi）中安装；
+3. 也可以直接把想法发给已安装该技能的 AI，即刻体验。
 
 ### 触发方式
 
